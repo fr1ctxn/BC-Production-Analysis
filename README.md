@@ -23,8 +23,11 @@ pip install pandas numpy matplotlib seaborn scipy
 Then open the notebook:
 
 ```bash
-jupyter notebook report.ipynb
+jupyter notebook report.ipynb  #make sure the path in the first cell is correct for the csv
 ```
+
+
+
 
 ![alt text](imagemain2.png)
 
@@ -37,6 +40,7 @@ Economic assumptions used: $3/GJ gas price, $450/day OPEX, $5M drilling + $3.5M 
 ## License
 
 MIT License
+
 
 
 
