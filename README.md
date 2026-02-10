@@ -39,3 +39,4 @@ Economic assumptions used: $3/GJ gas price, $450/day OPEX, $5M drilling + $3.5M 
 MIT License
 
 
+
